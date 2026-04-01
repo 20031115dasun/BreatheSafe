@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BreatheSafe_front",
-    "slug": "BreatheSafe_front",
+    "name": "BreatheSafe",
+    "slug": "BreatheSafe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
