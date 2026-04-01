@@ -1,12 +1,12 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 
-const Device = () => {
+const Index = () => {
   return (
     <View>
-      <Text>Device</Text>
+      <Text>Index</Text>
     </View>
   );
 };
 
-export default Device;
+export default Index;
